@@ -9,6 +9,7 @@ export default function App() {
       <Card
         title={"mxkaske"}
         subtitle={"my very first blog post"}
+        date={"15. December 2020"}
         imgSrc={require("./assets/max-profile.jpg")}
       />
       <StatusBar style="auto" />
