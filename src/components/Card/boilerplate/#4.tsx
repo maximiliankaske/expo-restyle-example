@@ -1,6 +1,6 @@
 import React from "react";
 import { Image, ImageSourcePropType } from "react-native";
-import { Box, Text, useTheme } from "../Theme";
+import { Box, Text, useTheme } from "../../Theme";
 
 interface CardProps {
   title: string;
